@@ -1,6 +1,7 @@
 cff-version: 1.2.0
-message: "If you use this dataset, please cite the OpenMuscle technical report below (DOI pending)."
+message: "If you use this dataset, please cite the OpenMuscle technical report below (dataset DOI 10.57967/hf/11416; report DOI pending)."
 type: dataset
+doi: 10.57967/hf/11416
 title: "OpenMuscle Dataset"
 abstract: >-
   Labeled and raw sensor capture sessions from OpenMuscle wearable forearm
