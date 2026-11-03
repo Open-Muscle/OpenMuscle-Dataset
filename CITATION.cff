@@ -1,0 +1,37 @@
+cff-version: 1.2.0
+message: "If you use this dataset, please cite the OpenMuscle technical report below (DOI pending)."
+type: dataset
+title: "OpenMuscle Dataset"
+abstract: >-
+  Labeled and raw sensor capture sessions from OpenMuscle wearable forearm
+  pressure-sensing devices (FlexGrid 60-cell matrix and earlier prototypes),
+  published for machine learning research on hand and forearm biomechanics.
+authors:
+  - family-names: Moghadam
+    given-names: Tory
+    orcid: "https://orcid.org/0009-0001-8126-247X"
+    affiliation: OpenMuscle
+repository-code: "https://github.com/Open-Muscle/OpenMuscle-Dataset"
+url: "https://openmuscle.org"
+license: CC-BY-4.0
+keywords:
+  - force myography
+  - FMG
+  - wearable sensing
+  - hand pose estimation
+  - dataset
+preferred-citation:
+  type: report
+  title: "OpenMuscle: Forearm Force-Myography with VR Hand-Tracking Ground Truth: Dataset and Honest Baselines"
+  authors:
+    - family-names: Moghadam
+      given-names: Tory
+      orcid: "https://orcid.org/0009-0001-8126-247X"
+      affiliation: OpenMuscle
+  institution:
+    name: OpenMuscle
+  version: "0.2"
+  year: 2026
+  month: 11
+  url: "https://openmuscle.org/research"
+  notes: "DOI pending"
