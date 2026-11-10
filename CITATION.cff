@@ -23,7 +23,7 @@ keywords:
   - dataset
 preferred-citation:
   type: report
-  title: "OpenMuscle: Forearm Force-Myography with VR Hand-Tracking Ground Truth: Dataset and Honest Baselines"
+  title: "OpenMuscle: An Open Forearm Force-Myography Dataset with Continuous Finger Labels, and Baselines Across Sessions and Wearers"
   authors:
     - family-names: Moghadam
       given-names: Tory
@@ -31,7 +31,8 @@ preferred-citation:
       affiliation: OpenMuscle
   institution:
     name: OpenMuscle
-  version: "0.2"
+  version: "0.3"
+  date-released: "2026-11-09"
   year: 2026
   month: 11
   url: "https://openmuscle.org/research"
